@@ -1,7 +1,7 @@
 # 🏠 DecoVision – AR Interior Design App
 DecoVision is an Augmented Reality (AR) based mobile application built with Unity and AR Foundation. It allows users to visualize and place virtual furniture and decor items in real-world environments using their smartphone camera.
 
-##✅ Features
+## ✅ Features
 ✔ AR-Based Furniture Placement
 
 Place 3D models of furniture in real-world spaces using AR.
@@ -39,14 +39,14 @@ Language: C#
 
 Platform: Android (iOS support planned)
 
-##📲 Installation
+## 📲 Installation
 [Download:](https://drive.google.com/drive/folders/1HuTkvz2ffshrszDyutv4_6XIWbJhFMrC?usp=drive_link)
 
 Install AR Foundation and ARCore XR Plugin via Unity Package Manager.
 
 Build and run on an ARCore-supported Android device.
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 iOS Support (ARKit Integration)
 
 Object Library Expansion
